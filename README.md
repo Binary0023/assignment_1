@@ -2,24 +2,7 @@ Nexus
 
 This project converts a static website (Home, About, Contact Us) into a React JS application with Tailwind CSS styling and Formspree API integration for form submission.
 
-## Project Structure
 
-/src
-├── components/
-│   ├── layouts/
-│   │   ├── NavBar.jsx
-│   │   └── Footer.jsx
-│   ├── pages/
-│   │   ├── HomePage.jsx
-│   │   ├── AboutPage.jsx
-│   │   └── ContactPage.jsx
-│   └── views/
-│       ├── HomeViews.jsx
-│       ├── AboutViews.jsx
-│       └── ContactViews.jsx
-├── App.js
-└── index.js
-```
 
 ## Features
 
